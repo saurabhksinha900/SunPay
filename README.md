@@ -1,5 +1,3 @@
-# SunPay
-
 # SunPay: The UPI of Clean Energy — Powered by AI & Agentforce
 # Inspiration
 Across the globe, billions of kilowatt-hours of solar energy go unutilized every year — especially from rooftops in sunny regions like Africa, Southeast Asia, Latin America, and Southern Europe. Yet, individuals and businesses lack access to local green energy, while grids struggle with sustainability goals.
